@@ -1,0 +1,23 @@
+body{
+ background-color: black;
+}
+
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  margin: 0 auto;
+  text-align: center;  
+  color: gold;
+  padding: 2% 2% 2% 2%;
+}
+h1{
+    text-align: center;
+    color: gold;
+}
+#blank{
+  background-color: rgb(42, 43, 44);
+}
+
+th{
+  background-color: rgb(42, 43, 44);
+}
