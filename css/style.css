@@ -2,8 +2,16 @@ body{
  background-color: black;
  font-family: 'Recursive', sans-serif;
 }
-
-table, th, td {
+footer{
+  padding-top: 5px;
+  color: gold;
+  margin: 0 auto;
+  text-align: center;
+}
+a{
+  color: rgb(71, 71, 253);
+}
+table, th, td  {
   border: 1px solid white;
   border-collapse: collapse;
   margin: 0 auto;
